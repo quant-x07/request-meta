@@ -1,5 +1,5 @@
 # request-meta
-在mqtt之上封装req rep模式，获取market、除权除息等meta信息
+在mqtt之上封装req rep模式，获取market股票列表、除权除息等meta信息
 
 ## 如何运行
 * 准备 visual studio 环境（在vs2017验证通过）
